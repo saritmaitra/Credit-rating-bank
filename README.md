@@ -1,7 +1,7 @@
 # Credit-rating-bank
 The data was taken from Dr. Hans Hofmann, Institut f"ur Statistik und "Okonometrie 
 Universit"at Hamburg. This is a transformed version data. Real-life data is messy and unstructure with expected missing values or unrecognised, issues with date format, regional values etc. In fact data pre-processing for machine learningtakes 60-70% effort of Analytic work.
-This dataset classifies people described by a set of attributes as good or bad credit risks in terms of default.
+This dataset here classifies people described by a set of attributes as good or bad credit risks in terms of default.
 
 Variables are binary, numerical and categorical. 
 
